@@ -152,7 +152,7 @@ If you're building AI products or infrastructure, I'd love to learn from your jo
 
 💼 LinkedIn: https://linkedin.com/in/sameersharma0028
 
-𝕏 X: https://x.com/sameersharma1_
+𝕏 X: "https://x.com/sameersharma1_"
 
 📧 founder@niria.ai *(Coming Soon)*
 
